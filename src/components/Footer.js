@@ -14,7 +14,7 @@ const Footer = () => {
       </div>
 
       <p className='text-sm mt-2 sm:mt-4 font-semibold'>
-        Created by <span className='text-white'>Israel PhiLL</span>
+        Created by <span className='text-white'>Festus Phillip</span>
       </p>
 
       {/* Social Media Icons (Optional) */}
